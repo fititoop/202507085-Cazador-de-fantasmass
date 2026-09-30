@@ -1,2 +1,4 @@
 # 202507085-Cazador-de-fantasmas
 Programador Junior 5To Perito Contador Sección: "B"
+#Fase 1
+En esta fase diseñé y estructuró el videojuego de acción y aventura "Cazador de Fantasmas", una propuesta interactiva donde los jugadores asumen el rol de Alex Hunter con el objetivo de explorar una antigua mansión embrujada y cerrar un portal paranormal generado por un experimento fallido. Para construir el proyecto, desarrollé una progresión de 5 niveles temáticos (desde la Entrada hasta la Sala del Portal), un catálogo de 4 tipos de enemigos con mecánicas variadas (fantasmas comunes, veloces, invisibles y explosivos) liderados por el Rey Fantasma, un sistema de habilidades para el héroe que incluye linterna reveladora y escudos, y un esquema de controles WASD con puntuación acumulativa por cada captura realizada.
