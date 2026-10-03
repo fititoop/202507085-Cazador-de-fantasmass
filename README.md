@@ -7,4 +7,4 @@ Este diagrama de flujo define la estructura lineal de "Cazador de Fantasmas", do
 # FASE 3
 Este script en Python implementa la lógica de "Cazador de Fantasmas" usando programación orientada a objetos. Define la clase padre Fantasma y usa herencia y polimorfismo para crear las cinco subclases de enemigos. Cada una posee valores únicos de daño, recompensa y mecánicas de ataque personalizadas. Por otro lado, la clase AlexHunter gestiona la salud, la puntuación y el inventario del protagonista. Finalmente, mediante funciones de consola y condicionales, el programa simula de forma interactiva la progresión lineal de los 5 niveles temáticos. El sistema valida las acciones del teclado, calcula el daño recibido y define la victoria tras derrotar al jefe final.
 # FASE 4
-En esta fase junte las 4 fases del programa y hice 
+En esta fase junte las 4 fases del programa y hice mi repositorio explicando cada una de las fases que tuve que realizar para poder llegar hasta este punto.
